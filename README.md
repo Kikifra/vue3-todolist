@@ -5,7 +5,6 @@ vue3-todolist
 
 npm install
 
-```
+
 npm run dev
 
-```
